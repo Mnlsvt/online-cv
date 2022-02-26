@@ -15,7 +15,7 @@ sidebar:
     email: p19vett@ionio.gr
     phone: 210425825
     citizenship: Greek
-    linkedin: Manolis Vettas
+    linkedin: https://gr.linkedin.com/in/manolis-vettas-12235021a
     github: Mnlsvt
 
     languages:
@@ -37,7 +37,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: I am currently studying computer science in the Ionian University and I am in my third year of my studies. I like many fields of computer science but the ones I love the most are computer networks, ethical hacking and coding. I aspire to work in the field and be a valuable member of my group. I am a hard worker and stubborn8 when it comes to finishing a project or finding the solution.
+    summary: I am currently studying computer science in the Ionian University and I am in my third year of my studies. I like many fields of computer science but the ones I love the most are computer networks, ethical hacking and coding. I aspire to work in the field and be a valuable member of my group. I am a hard worker and stubborn when it comes to finishing a project or finding the solution.
 
 education:
       - degree: Currently enrolled in a bachelor in Computer Science
@@ -45,7 +45,7 @@ education:
         time: 2019~
 
 experiences:
-      - details: I don't have any experience on the field yet but I am trying really hard to gain the propper requirements so I can be considered as an applicable candidate for a job that suits my interests well.
+      - details: I don't have any experience on the field yet but I am trying really hard to gain the proper requirements so I can be considered as an applicable candidate for a job that suits my interests well.
 
 
 skills:
