@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Vettas Emmanouil
     tagline: Computer Science student - Ionian University (Π2019206)
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: manolis277@gmail.com
