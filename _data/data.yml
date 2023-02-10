@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Vettas Emmanouil
-    tagline: Computer Science student - Ionian University (Π2019206)
+    tagline: Computer Science student - Ionian University
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,26 +27,30 @@ sidebar:
         level: Proficient - C2
 
     interests:
-      - item: Programming 
+      - item: Software development
         link:
 
-      - item: Gymnastics
+      - item: Artificial Intelligence
         link:
 
-      - item: Ethical hacking
+      - item: Big Data
         link:
+
+      - item: Computer Networks
+        link:
+        
 
 career-profile:
     title: Career Profile
-    summary: I am currently studying computer science in the Ionian University and I am in my third year of my studies. I like many fields of computer science but the ones I love the most are computer networks, ethical hacking and coding. I aspire to work in the field and be a valuable member of my group. I am a hard worker and stubborn when it comes to finishing a project or finding the solution.
+    summary: I am 22 years old and I am currently going through the last year of my studies (Graduate year) on the field of computer science in the Ionian University of Greece. My main interests are software development, computer networks, big data and artificial intelligence. I aspire to work in the field and be a valuable member of my group. I am a hard worker and stubborn when it comes to finishing a project or finding the proper solution to the problem.  
 
 education:
       - degree: Currently enrolled in a bachelor in Computer Science
         university: Ionian University
-        time: 2019 ~ Present
+        time: 2019 ~ June 2023
 
 experiences:
-      - details: I don't have any experience on the field yet but I am trying really hard to gain the proper requirements so I can be considered as an applicable candidate for a job that suits my interests well.
+      - details: I don’t have any work experience on the field yet but I am trying to obtain the proper requirements so I can be considered as an applicable candidate for a job that suits my interests well.
 
 publications:
     title: Certifications
@@ -59,10 +63,10 @@ skills:
 
     toolset:
       - name: Python
-        level: 70%
+        level: 80%
 
-      - name: Java
-        level: 40%
+      - name: SQL
+        level: 60%
 
       - name: HTML5 & CSS
         level: 50%
