@@ -74,5 +74,11 @@ skills:
       - name: C++
         level: 50%
 
+      - name: Linux Based Systems
+        level: 80%
+
+      - name: Version Control With Git
+        level: 80%
+
 footer: >
     Designed by <a href="https://github.com/Mnlsvt" target="_blank" rel="nofollow">Manolis</a>
